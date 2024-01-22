@@ -28,16 +28,15 @@ main{
   height: 100%;
 }
 
-div{
-
+p{
   background-color: #fff;
   padding: 1rem;
   margin: 1rem;
   cursor: pointer;
+  border-radius: 16px;
 }
 
 a{
-  height: 2rem;
   text-decoration: none;
   color: #000;
   font-weight: 900;
